@@ -32,5 +32,9 @@ Contras:
 
 ## Singleton:
 Pro´s:
+*Proporciona el acceso global de una instancia, con un metodo de creacion estatico, que actue como constructor de la clase global
+*Controla el acceso a algun recurso compartivo, para ello es hacer que esa clase globalizada tenga una sola instancia y su constructor este en privado, para evitar que otros objetos puedan acceder a esta informacion.
 
 Contras:
+* Viola un principio de SOLID, el principio de SRP.
+* 
