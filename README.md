@@ -11,8 +11,9 @@ Puede ser que el código se complique más de lo que debería, ya que se introdu
 
 ## Builder Patterns
 Pro´s:
-
+Nos permitira crear una interface (Un builder) con los pasos para crear las computadoras, luego podremos crear las computadoras con sus diferentes caracteristicas
 Contras:
+Hay que crear las clases de las computadoras con los pasos que se encuentran en la interface.
 
 
 ## Factory Method
