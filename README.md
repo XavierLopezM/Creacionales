@@ -16,10 +16,10 @@ Contras:
 
 
 ## Factory Method
-** Pro´s:
+**Pro´s:**
 Nos permitiria hacer una superclase en la que se cree la computadora y luego una subclase de cada computadora que implemente los mismos metodos pero con diferentes, pues las computadoras son diferentes.
 
-** Contras:
+**Contras:**
 Hay que introducir el codigo en las dos subclases
 
 
