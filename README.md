@@ -24,13 +24,14 @@ Nos permitiria hacer una superclase en la que se cree la computadora y luego una
 Contras:
 Hay que introducir el codigo en las dos subclases
 
-
-
-
 ## Prototype:
 Pro´s:
+*Se utiliza para restringir las operaciones de memoria & base de datos manteniendo la modificación al mínimo utilizando copias de objetos.
+*Crea un a copia de clase utilizando una interfaz, que admite el netodo clonar, y cada clase que implemente dicha interfaz, se podra copiar hasta sus campos privados, en los que no se pueden acceder.
 
 Contras:
+*Dado que debe conocer la clase del objeto para crear un duplicado, su código se vuelve dependiente de esa clase.
+
 
 ## Singleton:
 Pro´s:
