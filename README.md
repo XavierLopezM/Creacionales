@@ -7,24 +7,24 @@ Pro´s:
 
 Contras:
 
-Builder Patterns
+## Builder Patterns
 Pro´s:
 
 Contras:
 
 
-Factory Method
+## Factory Method
 Pro´s:
 
 Contras:
 
 
-Prototype:
+## Prototype:
 Pro´s:
 
 Contras:
 
-Singleton:
+## Singleton:
 Pro´s:
 
 Contras:
