@@ -3,9 +3,9 @@
 ### Análisis de los patrones de diseño vistos en clase e indique los pro y contra de usar dichos patrones en el desarrollo de este sistema.
 
 ## Abstract Factory
-Pro´s:
+*Pro´s:*
 Podriamos declarar de forma explícita interfaces para cada producto diferente de la familia computador (gamers, oficina, pc, laptos). Después podemos hacer que todas las variantes de los productos sigan esas interfaces. Por ejemplo, todas las variantes de gamers pueden implementar la interfaz Silla, así como todas las variantes de Oficina pueden implementar la interfaz Oficina, y así sucesivamente.
-Contras:
+*Contras:*
 Puede ser que el código se complique más de lo que debería, ya que se introducen muchas nuevas interfaces y clases junto al patrón
 
 ## Builder Patterns
